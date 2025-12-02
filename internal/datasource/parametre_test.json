@@ -1,0 +1,77 @@
+{
+    "typeClient": {
+        "id": 1,
+        "name": "Particulier"
+    },
+    "civilite": {
+        "id": 2,
+        "name": "Monsieur"
+    },
+    "nom": "DALY",
+    "prenom": "Damien",
+    "adresse": "20 rue des barbouilleurs",
+    "codePostal": "98835",
+    "ville": "Dumbéa",
+    "telMobile": "+687 00.00.00",
+    "email": "damien@greenpowerimport.nc",
+    "fournisseur": "EEC",
+    "typeAbonnement": "9.9",
+    "piscine": false,
+    "climatiseur": true,
+    "factureClient": {
+        "1": {
+            "kwhClient": 1,
+            "anneePrecedente": 1
+        },
+        "2": {
+            "kwhClient": 1,
+            "anneePrecedente": 1
+        },
+        "3": {
+            "kwhClient": 1,
+            "anneePrecedente": 1
+        },
+        "4": {
+            "kwhClient": 1,
+            "anneePrecedente": 1
+        },
+        "5": {
+            "kwhClient": 1,
+            "anneePrecedente": 1
+        },
+        "6": {
+            "kwhClient": 1,
+            "anneePrecedente": 1
+        },
+        "7": {
+            "kwhClient": 1,
+            "anneePrecedente": 1
+        },
+        "8": {
+            "kwhClient": 1,
+            "anneePrecedente": 1
+        },
+        "9": {
+            "kwhClient": 1,
+            "anneePrecedente": 1
+        },
+        "10": {
+            "kwhClient": 1,
+            "anneePrecedente": 1
+        },
+        "11": {
+            "kwhClient": 1,
+            "anneePrecedente": 1
+        },
+        "12": {
+            "kwhClient": 1,
+            "anneePrecedente": 1
+        }
+    },
+    "repartitionConsomation": {
+        "travailExterieur": true,
+        "consoJourPourcent": 50,
+        "consoNuitPourcent": 50,
+        "solaireExistant": false
+    }
+}
